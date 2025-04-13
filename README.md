@@ -29,4 +29,8 @@ This tool can be useful for:
 ## 🧪 Example
 
 ### Input
+abbaeae
+
+
+### Output
 
