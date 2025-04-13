@@ -24,13 +24,5 @@ This tool can be useful for:
 3. For each substring, it calls a **recursive function** to determine whether it is a palindrome.
 4. All palindromic substrings found are stored and then displayed to the user.
 
----
 
-## 🧪 Example
-
-### Input
-abbaeae
-
-
-### Output
 
